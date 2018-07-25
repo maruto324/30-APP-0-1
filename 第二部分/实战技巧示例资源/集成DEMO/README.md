@@ -6,11 +6,11 @@
 
 - android 版本
 	
-	![android 版本安装二维码](./安装包/BookDemo2_android.png)
+	![android 版本安装二维码](./安装包/Book2_android.png)
 	
 - iOS 版本
 	
-	![iOS 版本安装二维码](./安装包/BookDemo2_iOS.png)
+	![iOS 版本安装二维码](./安装包/Book2_iOS.png)
 	
 	**说明：** iOS版本为企业版，安装后需要在系统设置->通用->设备管理 中信任应用方可启动
 
